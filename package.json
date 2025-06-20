@@ -1,0 +1,10 @@
+{ "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@shipper/pdfkit-html-simple": "^1.0.3",
+    "@types/pdfkit": "^0.14.0",
+    "pdfkit": "^0.17.1"
+  }
+}
